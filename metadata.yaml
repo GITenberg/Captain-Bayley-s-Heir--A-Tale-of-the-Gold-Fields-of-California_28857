@@ -1,0 +1,36 @@
+_repo: Captain-Bayley-s-Heir--A-Tale-of-the-Gold-Fields-of-California_28857
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paget, H. M. (Henry Marriott)
+    alias: Paget, Henry Marriott
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '33554'
+    url: http://www.gutenberg.org/2009/agents/33554
+covers:
+- cover_type: archival
+  image_path: 28857-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2009-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'California -- Gold discoveries -- Juvenile fiction'
+title: 'Captain Bayley''s Heir: A Tale of the Gold Fields of California'
+url: http://www.gutenberg.org/ebooks/28857
