@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28857#Captain-Bayley-s-Heir--A-Tale-of-the-Gold-Fields-of-California
 gutenberg_issued: '2009-05-17'
 gutenberg_type: Text
 identifiers:
